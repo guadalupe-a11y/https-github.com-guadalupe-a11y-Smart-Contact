@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../BLL/BLL.csproj" Id="a6baeb21-a126-4f95-99f9-6780f90bbe6f" />
+  <Project Path="../DAL/DAL.csproj" Id="516d782a-bb94-4b9e-b7b2-c08b47993372" />
+  <Project Path="../EL/EL.csproj" Id="89c9b33b-7f19-47c2-b7a5-416aec6cd6c1" />
+  <Project Path="../GUI/GUI.csproj" Id="9f2b56e6-225c-4439-94c2-bb88d475c0b7" />
+  <Project Path="SmartContact.csproj" Id="ddfec4e5-0a82-4048-90f4-cf6b3745f2d1" />
+</Solution>
