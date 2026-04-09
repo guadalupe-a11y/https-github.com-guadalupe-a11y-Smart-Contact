@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../BLL/BLL.csproj" />
+  <Project Path="../DAL/DAL.csproj" />
+  <Project Path="../EL/EL.csproj" />
+  <Project Path="../GUI/GUI.csproj" />
+  <Project Path="SmartContact.csproj" />
+</Solution>
