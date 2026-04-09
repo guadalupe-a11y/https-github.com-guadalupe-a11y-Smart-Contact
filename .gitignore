@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 .vs/
+=======
+﻿.vs/
+>>>>>>> d8b94779b912b186caef57c7b9d5bf296f8102a4
 bin/
 obj/
 *.user
 *.suo
+<<<<<<< HEAD
 *.vsidx
+=======
+*.vsidx
+packages/
+>>>>>>> d8b94779b912b186caef57c7b9d5bf296f8102a4
